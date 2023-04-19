@@ -1,6 +1,6 @@
  # LINK
- ### 1st PERSONAL PROJECT <a href="https://github.com/yisy0703/las-1stPersonalProject"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2nd TEAM PROJECT  <a href="https://github.com/yisy0703/las-1stPersonalProject"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 1st PERSONAL PROJECT <a href="https://github.com/yisy0703/LAS-1stPersonalProject"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="https://github.com/yisy0703/LAS-1stPersonalProject"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/yisy0703/webPro"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
